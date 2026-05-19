@@ -79,3 +79,4 @@ Python: 3.6 или выше
 Найденные Electrum-данные сохраняются локально в папку findet/ — проверяйте содержимое перед использованием
 
 Видео - https://rutube.ru/video/47a9da897c9c3aa2ba2abb6688e086b8/
+donate btc : 1LY2aLrqYFVTqw7jGcBt9jiuqd2faVvqbc
