@@ -1,3 +1,7 @@
+A program for viewing and searching in large files and raw disks. 
+It is designed for analyzing binary data, searching for cryptographic keys, wallet.dat patterns, 
+Electrum seeds, and custom regular expressions.
+
 Программа для просмотра и поиска в больших файлах и сырых дисках. 
 Предназначена для анализа бинарных данных, поиска криптографических ключей, паттернов wallet.dat, 
 Electrum-сидов и пользовательских регулярных выражений.
